@@ -1,0 +1,3 @@
+- find and fix bugs
+- check for memory leaks
+- category support (wish #92158) and different icons for it (wish #89600)
